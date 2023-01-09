@@ -1,0 +1,7 @@
+{
+  "name": "test-background-location",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
